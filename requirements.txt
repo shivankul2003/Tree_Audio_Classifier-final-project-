@@ -1,0 +1,6 @@
+gradio==4.44.0
+librosa==0.10.1
+numpy
+joblib
+scikit-learn
+soundfile
